@@ -1,2 +1,5 @@
 # logstash-twitter-template
-Logstash twitter template fore v6 Elasticsearch
+Logstash twitter template.
+For v6.0.0 Stack
+
+
